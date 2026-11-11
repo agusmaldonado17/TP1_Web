@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/TP1_Web/">
+    <File Path="contacto.html" />
+    <File Path="index.html" />
+    <File Path="README.md" />
+    <File Path="servicios.html" />
+  </Folder>
+  <Folder Name="/TP1_Web/assets/" />
+  <Folder Name="/TP1_Web/assets/css/">
+    <File Path="styles.css" />
+  </Folder>
+</Solution>
