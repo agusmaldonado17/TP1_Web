@@ -11,7 +11,7 @@ El sitio cuenta con tres páginas: Inicio, Servicios y Contacto.
 - CSS
 
 ## Ejecución
-Para visualizar el sitio localmente, abrir el siguiente link
+Para visualizar el sitio publicado en github pages, abrir el siguiente link https://agusmaldonado17.github.io/TP1_Web/index.html
 
 ## Sitio web
 Pendiente de publicación.
